@@ -9,4 +9,4 @@ A collection of free books written by JG Estiot including:
 - Noah’s Ark: Christianity’s Titanic (https://github.com/jgestiot/free_books/blob/main/noahs_ark.pdf)
 - Wokism: Descent into Fascism (https://github.com/jgestiot/free_books/blob/main/wokism.pdf)
 - The Tactics of Muslim Apologists (https://github.com/jgestiot/free_books/blob/main/the_tactics_of_muslim_apologists.pdf)
-- 
+- The Bible: Book of Nonsense (https://github.com/jgestiot/free_books/blob/main/bible_book_of_nonsense.pdf)
