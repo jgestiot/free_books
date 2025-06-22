@@ -6,3 +6,4 @@ A collection of free books written by JG Estiot including:
 - Billions of Fools Can’t be Wrong: A Species Built on Ego Heads for Extinction (https://github.com/jgestiot/free_books/blob/main/billions_of_fools.pdf)
 - Evolution for the Religious Zealots: Reality confronts scriptures (https://github.com/jgestiot/free_books/blob/main/evolution_for_the_religious_zealots.pdf)
 - The Book of Idiots (https://github.com/jgestiot/free_books/blob/main/the_book_of_idiots.pdf)
+- Noah’s Ark: Christianity’s Titanic (https://github.com/jgestiot/free_books/blob/main/noahs_ark.pdf)
