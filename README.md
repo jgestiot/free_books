@@ -11,3 +11,5 @@ A collection of free books written by JG Estiot including:
 - The Tactics of Muslim Apologists (https://github.com/jgestiot/free_books/blob/main/the_tactics_of_muslim_apologists.pdf)
 - The Bible: Book of Nonsense (https://github.com/jgestiot/free_books/blob/main/bible_book_of_nonsense.pdf)
 - Divine Qu’ran: The Book of Mistakes (https://github.com/jgestiot/free_books/blob/main/divine_quran.pdf)
+- Questions for Islam: A Quest for Truth (https://github.com/jgestiot/free_books/blob/main/questions_for_islam.pdf)
+- 
