@@ -8,3 +8,5 @@ A collection of free books written by JG Estiot including:
 - The Book of Idiots (https://github.com/jgestiot/free_books/blob/main/the_book_of_idiots.pdf)
 - Noah’s Ark: Christianity’s Titanic (https://github.com/jgestiot/free_books/blob/main/noahs_ark.pdf)
 - Wokism: Descent into Fascism (https://github.com/jgestiot/free_books/blob/main/wokism.pdf)
+- The Tactics of Muslim Apologists (https://github.com/jgestiot/free_books/blob/main/the_tactics_of_muslim_apologists.pdf)
+- 
