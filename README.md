@@ -14,4 +14,4 @@ This is a collection of free books written by JG Estiot, including:
 - The Bible: Book of Nonsense (https://github.com/jgestiot/free_books/blob/main/bible_book_of_nonsense.pdf)
 - Divine Qu’ran: The Book of Mistakes (https://github.com/jgestiot/free_books/blob/main/divine_quran.pdf)
 - Questions for Islam: A Quest for Truth (https://github.com/jgestiot/free_books/blob/main/questions_for_islam.pdf)
-- 
+- Islam: The Religion of exaggeration (https://github.com/jgestiot/free_books/blob/main/religion_of_exaggeration.pdf)
