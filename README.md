@@ -16,3 +16,4 @@ This is a collection of free books written by JG Estiot, including:
 - Questions for Islam: A Quest for Truth (https://github.com/jgestiot/free_books/blob/main/questions_for_islam.pdf)
 - Islam: The Religion of exaggeration (https://github.com/jgestiot/free_books/blob/main/religion_of_exaggeration.pdf)
 - How Science Destroyed Religion (https://github.com/jgestiot/free_books/blob/main/how_science_destroyed_religion.pdf)
+- Answers in Genesis: The Denial Business (https://github.com/jgestiot/free_books/blob/main/answers_in_genesis.pdf)
