@@ -18,3 +18,5 @@ This is a collection of free books written by JG Estiot, including:
 - How Science Destroyed Religion (https://github.com/jgestiot/free_books/blob/main/how_science_destroyed_religion.pdf)
 - Answers in Genesis: The Denial Business (https://github.com/jgestiot/free_books/blob/main/answers_in_genesis.pdf)
 - Islam: Gateway to Terrorism (https://github.com/jgestiot/free_books/blob/main/islam_gateway_to_terrorism.pdf)
+- God Needs Money (https://github.com/jgestiot/free_books/blob/main/god_needs_money.pdf)
+- The Clowns of Christianity (https://github.com/jgestiot/free_books/blob/main/the_clowns_of_christianity.pdf)
