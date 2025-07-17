@@ -1,4 +1,4 @@
-# Free books and booklets for anyone to download
+# Free books and booklets for you to download
 Bookmark this page and check regularly as new books will be added.
 
 This is a collection of free books written by JG Estiot, including:
