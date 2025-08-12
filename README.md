@@ -9,7 +9,7 @@ This is a collection of free books written by JG Estiot, including:
 - Distracted by Pseudosciences (https://github.com/jgestiot/free_books/blob/main/distracted_by_pseudosciences.pdf)
 - Divine Qu’ran: The Book of Mistakes (https://github.com/jgestiot/free_books/blob/main/divine_quran.pdf)
 - Evolution for the Religious Zealots: Reality confronts scriptures (https://github.com/jgestiot/free_books/blob/main/evolution_for_the_religious_zealots.pdf)
-- Feeding you lies (https://github.com/jgestiot/free_books/blob/main/feeding_you_lies.pdf)
+- Feeding you lies: The Great Supermarket Scame (https://github.com/jgestiot/free_books/blob/main/feeding_you_lies.pdf)
 - God Needs Money (https://github.com/jgestiot/free_books/blob/main/god_needs_money.pdf)
 - How Science Destroyed Religion (https://github.com/jgestiot/free_books/blob/main/how_science_destroyed_religion.pdf)
 - Islam: Gateway to Terrorism (https://github.com/jgestiot/free_books/blob/main/islam_gateway_to_terrorism.pdf)
